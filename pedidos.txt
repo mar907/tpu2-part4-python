@@ -1,0 +1,12 @@
+Apellido y Nombre del Cliente: tiago zampatti
+Dirección: alvear 4574
+Inconveniente: pantalla del celular rota
+Técnico Asignado: juan martinez
+Fecha de Visita: 2023-09-06 11:30
+=================================
+Apellido y Nombre del Cliente: tiago zampatti
+Dirección: vieytes 2369
+Inconveniente: cable cortado
+Técnico Asignado: juan perez
+Fecha de Visita: 2023-06-09 11:00
+=================================
